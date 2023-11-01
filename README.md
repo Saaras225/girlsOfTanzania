@@ -6,5 +6,5 @@ Girls of Tanzania is a data Analytic's project developed in power Bi with the pu
 
 This project was made in spanish so I will translate the most important information about the presentation (ppt).
 
-![girl]([https://spectrum.ieee.org/media-library/marlyn-wescoff-and-ruth-lichterman-were-two-of-the-female-programmers-of-eniac.jpg?id=25588099&width=700&height=500](https://drive.google.com/file/d/1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa/view?usp=sharing)https://drive.google.com/file/d/1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa/view?usp=sharing "girl")
+![girlsOne](https://drive.google.com/file/d/1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa/view?usp=sharing "girlsOne")
 
