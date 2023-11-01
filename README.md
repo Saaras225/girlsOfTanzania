@@ -8,3 +8,5 @@ This project was made in spanish so I will translate the most important informat
 
 ![girlsOne](https://drive.google.com/file/d/1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa/view?usp=sharing "girlsOne")
 
+![girlsOne2](https://drive.google.com/file/d/1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa/view?usp=drive_link "girlsOne2")
+
