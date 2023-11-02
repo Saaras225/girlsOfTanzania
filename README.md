@@ -6,7 +6,15 @@ Girls of Tanzania is a data Analytic's project developed in power Bi with the pu
 
 This project was made in spanish so I will translate the most important information about the presentation (ppt).
 
-![girlsOne](https://drive.google.com/file/d/1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa/view?usp=sharing "girlsOne")
+<img src='https://drive.google.com/uc?id=1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa' width='500'>
 
-![girlsOne2](https://drive.google.com/file/d/1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa/view?usp=drive_link "girlsOne2")
+<img src='https://drive.google.com/uc?id=1Hi0j1sV5XSZvo-3S_1K6yHUvVCf2KhZ0' width='500'>
+
+<img src='https://drive.google.com/uc?id=1y2c-CiS9FkQNYyOugvJeMJj2_lbMMVK4' width='500'>
+
+<img src='https://drive.google.com/uc?id=1gSMBVCC0tsh5GofDghULcs5NCjwOl9SH' width='500'>
+
+<img src='https://drive.google.com/uc?id=15JePrNT17CA7eAkP3GevywINqyNolKsr' width='500'>
+
+<img src='https://drive.google.com/uc?id=14AR3tq1MaFnZzekcxej5WjVsYXL53qpA' width='500'>
 
