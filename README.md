@@ -4,7 +4,7 @@ PPT link: https://docs.google.com/document/d/1KC_iMRuk0Tx90UTGGGEJLU5vpagsZPYgkx
 
 Girls of Tanzania is a data Analytic's project developed in power Bi with the purpose to know the social context of the numerous girls and women who seek for shelter in many of the save houses run by diverse asociations whos main mision is to veil for the women's rights.
 
-This project was made in spanish so I will translate the most important information about the presentation (ppt).
+In Tanzania one of the most brutal violation of girls and women's rights is female genitalia mutilacion (FGM) and with this comes other related problems such as child marriage, teen pregnancies, sexually transmitted disease (std) and domestic violence. that's why all this organizations are concern about what all this girls suffer from very young ages.
 
 <img src='https://drive.google.com/uc?id=1D3GCJjiwcMAR6R0MmCGxaxg4bbZCtiZa' width='500'>
 
