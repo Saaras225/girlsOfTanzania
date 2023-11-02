@@ -17,4 +17,3 @@ In Tanzania one of the most brutal violation of girls and women's rights is fema
 <img src='https://drive.google.com/uc?id=15JePrNT17CA7eAkP3GevywINqyNolKsr' width='500'>
 
 <img src='https://drive.google.com/uc?id=14AR3tq1MaFnZzekcxej5WjVsYXL53qpA' width='500'>
-
